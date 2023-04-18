@@ -7,3 +7,12 @@
     border: solid 1px #888;
     background-color: #DDD8C4;
   }
+
+h1{
+  color: red;
+  font-size: 300%;
+}
+p{
+  font-family: "comic sans";
+  text-indent: 10px;
+}
