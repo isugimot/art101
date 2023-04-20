@@ -34,3 +34,14 @@ h1 {
   border: solid 1px #888;
   background-color: #A3C9A8;
 }
+
+.section {
+  padding: 5px;
+  margin-bottom: 20px;
+  border: solid 1px black;
+  background-color: whitesmoke;
+}
+
+p{
+  font-family: 'Times New Roman', Times, serif;
+}
