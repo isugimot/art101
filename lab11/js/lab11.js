@@ -1,8 +1,7 @@
 // lab11.js - Working with jQuery
 // Author: Ichiro Sugimoto <isugimot@ucsc.edu>
-// Date: 5/18/2023
+// Date: 5/17/2023
 
-// sortUserName takes user input and rearanges the letters
 var ChallengeEl = $('<input type="button" value="Challenge" id="challengeBt"\>');
 $("#Challenge").append(ChallengeEl);
 var ProblemEl = $('<input type="button" value="Problems" id="problemBt"\>');
