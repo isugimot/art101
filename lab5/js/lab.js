@@ -9,7 +9,6 @@ model = "Honda E";
 color = "Black";
 year = "2020";
 ownIt = false;
-age = 2023 - year;
 
 // Functions
 

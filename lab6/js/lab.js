@@ -3,7 +3,7 @@
 // Date: 5/1/2023
 
 // Constants
-myTransport = ["Bus", "Car", "Walking"]
+const myTransport = ["Bus", "Car", "Walking"]
 
 var myMainRide = {
   make: "Honda", 
